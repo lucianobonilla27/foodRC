@@ -1,0 +1,53 @@
+.contacto-style {
+  background-color: #FFFFFC;
+}
+
+.encabezado {
+  background-color: #BEB7A4;
+}
+
+hr {
+  color: #FF7F11;
+}
+
+h5 {
+  margin-bottom: 10px;
+  font-weight: 500;
+  color: #000000;
+
+}
+
+.mapa {
+  border: 2px solid #FF7F11;
+  border-radius: 10px;
+  width: 400px;
+  height: 430px;
+
+
+}
+
+.formulario {
+  text-align: left;
+  color: #FF7F11;
+  font-weight: 500;
+}
+
+.form-control {
+  border: 2px solid #FF7F11;
+}
+
+.btn {
+  background-color: #FF7F11;
+  border: 2px solid;
+  font-weight: 500;
+}
+
+.div-col1 {
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.div-col2 {
+  margin-bottom: 5px;
+  font-weight: 500;
+}

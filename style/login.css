@@ -1,0 +1,27 @@
+.bordes{
+    border: 1px  groove rgb(184, 183, 183);
+    border-radius: 20px;
+  
+}
+
+.medidas{
+
+    width: 50%; 
+    height: 650px;
+}
+
+
+@media only screen and (max-width: 768px){
+
+    .medidas{
+
+        width: 100%;
+    }
+    .mobile{
+
+        margin-left: 50px;
+
+    }
+
+
+}

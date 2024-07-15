@@ -1,0 +1,55 @@
+body {
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600;700&family=Poppins:ital,wght@0,400;0,500;1,500&family=Tilt+Neon&display=swap');
+    font-family: 'Poppins', sans-serif;
+        background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(219,16,30,1) 35%, rgba(244,115,9,1) 100%);
+
+}
+
+.container {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+ 
+
+.ancho {
+    width: 100%;
+    background-color: #FF3F00;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #b92e00;
+}
+
+.form-control:invalid {
+    border: 1px solid #dc3545;
+}
+
+.medidas{
+
+    width: 50%;
+ 
+}
+
+
+@media only screen and (max-width: 768px){
+
+    .medidas{
+
+        width: 100%;
+     
+    }
+    
+}

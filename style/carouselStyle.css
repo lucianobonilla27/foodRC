@@ -1,0 +1,5 @@
+#title-carousel{
+    border-radius: 50px;
+    background: rgb(235, 58, 0);
+    background: linear-gradient(161deg, rgba(235, 58, 0, 1) 3%, rgba(255, 127, 17, 1) 51%, rgba(235, 58, 0, 1) 90%);
+}
